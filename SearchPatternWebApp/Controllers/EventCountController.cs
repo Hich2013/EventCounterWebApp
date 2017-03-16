@@ -11,8 +11,6 @@ namespace SearchPatternWebApp.Controllers
 {
     public class EventCountController : Controller
     {
-        static readonly object _object = new object();
-       
         //
         // GET: /Index/
         public ActionResult Index()

@@ -13,12 +13,12 @@ namespace SearchPatternWebApp.Helpers
     {
         public List<EventCount> EventCounts;
 
+        static readonly object _object = new object();
+
         public EventCounter()
         {
             EventCounts = new List<EventCount>();
         }
-
-        static readonly object _object = new object();
 
         public void ParseEvents(string deviceID, StreamReader eventLog)
         {

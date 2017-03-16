@@ -1,0 +1,52 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\obj\Debug\EventCounter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\obj\Debug\SearchPattern.Tests.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPattern.Tests.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPattern.Tests.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPattern.Tests.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPatternWebApp.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPatternWebApp.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\SearchPatternWebApp\SearchPattern.Tests\obj\Debug\SearchPattern.Tests.pdb
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPattern.Tests.dll.config
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPattern.Tests.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\SearchPattern.Tests.pdb
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\EventCounterWebApp.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\EventCounterWebApp.pdb
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\obj\Debug\EventCounter.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\obj\Debug\SearchPattern.Tests.dll
+C:\Users\user\Desktop\SearchPatternWebApp\SearchPattern.Tests\obj\Debug\SearchPattern.Tests.pdb
